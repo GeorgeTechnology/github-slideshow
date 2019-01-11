@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What did the duck say to the bartender?
 Use the left arrow to go back!
